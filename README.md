@@ -1,24 +1,39 @@
 # Project-All
-This GitHub repository contains links to all the projects I have worked on.
 
-## Jumppie Cat (Python)
-### https://github.com/KIT4ER0/PSCP_Project
-- Python project for a game inspired by the Dinosaur Game which appears when you access Google web without an internet connection.
+Welcome to my GitHub repository! This repository contains links to all the projects I have worked on.
 
-## Kanfaifa Ma Ha Na Ter (Java)
-### https://github.com/jeena55/Project-OOP
-- The Java (OOP) project is developed as a program for electricity bill payment and is designed to help users efficiently calculate the size and amount of electricity usage in order to reduce costs.
+## Projects
 
-## Super Car Care (Angular, TypeScript)
-### https://github.com/tanggyyggnat/super-car-care
-### https://github.com/tanggyyggnat/supercarcare-server
-- The project is developed as a Web Application, serving as an online car repair service management system. It allows both customers and staff to clearly view appointment dates for services and the details of various services, making it convenient to track progress.
+### 1. **Jumppie Cat (Python)**
+- **Repository:** [Jumppie Cat](https://github.com/KIT4ER0/PSCP_Project)
+- A Python-based game inspired by the famous Dinosaur Game that appears when you're offline in Google Chrome. Enjoy the challenge of jumping over obstacles in this simple, fun game.
 
-## Maji (PHP)
-### https://github.com/jeena5555/Maji
-- The "Maji Japanese Restaurant Management System" website enhances efficiency, providing convenience for restaurant owners, staff, chefs, and in-house customers.
+---
 
-## Bean Balance (Django)
-### https://github.com/jeena5555/project-server-side
-- This is a POS System Management application designed for managing a cafe. 
-It simplifies cafe operations by enabling easy management of orders, menu items, payments, and customer interactions.
+### 2. **Kanfaifa Ma Ha Na Ter (Java)**
+- **Repository:** [Kanfaifa Ma Ha Na Ter](https://github.com/jeena55/Project-OOP)
+- A Java (OOP) project designed to simplify the calculation of electricity bills. It helps users efficiently calculate electricity consumption to reduce costs.
+
+---
+
+### 3. **Super Car Care (Angular, TypeScript)**
+- **Repositories:** 
+  - [Super Car Care (Frontend)](https://github.com/tanggyyggnat/super-car-care)
+  - [Super Car Care (Backend)](https://github.com/tanggyyggnat/supercarcare-server)
+- A web application that serves as an online car repair service management system. It allows customers and staff to easily view and manage service appointments and track the progress of various repair services.
+
+---
+
+### 4. **Maji (PHP)**
+- **Repository:** [Maji](https://github.com/jeena5555/Maji)
+- The Maji Japanese Restaurant Management System website helps enhance operational efficiency for restaurant owners, staff, chefs, and customers. It streamlines the management of restaurant services.
+
+---
+
+### 5. **Bean Balance (Django)**
+- **Repository:** [Bean Balance](https://github.com/jeena5555/project-server-side)
+- A Point of Sale (POS) system for managing cafe operations. This application simplifies the management of orders, menu items, payments, and customer interactions, improving overall efficiency for cafe businesses.
+
+---
+
+Feel free to explore the repositories, and don't hesitate to reach out if you have any questions or feedback!
