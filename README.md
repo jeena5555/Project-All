@@ -36,4 +36,10 @@ Welcome to my GitHub repository! This repository contains links to all the proje
 
 ---
 
+### 6. **Care Connect (React, Express)**
+- **Repository:** [Care Connect](https://github.com/jeena5555/careconnect)
+- This project aims to develop a Hospital Management System (HMS) to streamline workflows, reduce paperwork, and enhance service quality for patients, doctors, and hospital staff.
+
+---
+
 Feel free to explore the repositories, and don't hesitate to reach out if you have any questions or feedback!
